@@ -12,7 +12,7 @@ namespace First_Project
             Console.WriteLine("Soyadınızı giriniz.");
             string surname = Console.ReadLine();
             System.Console.WriteLine("Merhaba " + name + " " + surname);
-            System.Console.WriteLine("Rüstem Muhammed");
+            System.Console.WriteLine("Rüstem Muhammed Karademir");
         }
     }
 }
