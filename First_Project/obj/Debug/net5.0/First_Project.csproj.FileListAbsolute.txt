@@ -1,0 +1,16 @@
+C:\C# 101\First_Project\bin\Debug\net5.0\First_Project.exe
+C:\C# 101\First_Project\bin\Debug\net5.0\First_Project.deps.json
+C:\C# 101\First_Project\bin\Debug\net5.0\First_Project.runtimeconfig.json
+C:\C# 101\First_Project\bin\Debug\net5.0\First_Project.runtimeconfig.dev.json
+C:\C# 101\First_Project\bin\Debug\net5.0\First_Project.dll
+C:\C# 101\First_Project\bin\Debug\net5.0\ref\First_Project.dll
+C:\C# 101\First_Project\bin\Debug\net5.0\First_Project.pdb
+C:\C# 101\First_Project\obj\Debug\net5.0\First_Project.csproj.AssemblyReference.cache
+C:\C# 101\First_Project\obj\Debug\net5.0\First_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# 101\First_Project\obj\Debug\net5.0\First_Project.AssemblyInfoInputs.cache
+C:\C# 101\First_Project\obj\Debug\net5.0\First_Project.AssemblyInfo.cs
+C:\C# 101\First_Project\obj\Debug\net5.0\First_Project.csproj.CoreCompileInputs.cache
+C:\C# 101\First_Project\obj\Debug\net5.0\First_Project.dll
+C:\C# 101\First_Project\obj\Debug\net5.0\ref\First_Project.dll
+C:\C# 101\First_Project\obj\Debug\net5.0\First_Project.pdb
+C:\C# 101\First_Project\obj\Debug\net5.0\First_Project.genruntimeconfig.cache
