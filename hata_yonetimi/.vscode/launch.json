@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/degisken/bin/Debug/net5.0/degisken.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/hata_yonetimi.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/degisken",
+            "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",
             "stopAtEntry": false
         },
