@@ -16,7 +16,8 @@ namespace metotlar
             bool sonuc2 = int.TryParse(sayi,out int sayi1);
             Console.WriteLine(sonuc2 ? "Başarılı "+sayi1 : "Başarız");
             Carp(5,2,out int sonuc3);
-            Console.WriteLine(sonuc3);  
+            metot.Yazdır(sonuc3);  
+            metot.Yazdır("patika.","Dev");
         }
         static int Topla(int sayi1, int sayi2){
             return sayi1+sayi2;
@@ -29,6 +30,12 @@ namespace metotlar
     {
         public void Yazdır(string str){
             Console.WriteLine(str);
+        }
+        public void Yazdır(int str){
+            Console.WriteLine(str);
+        }
+        public void Yazdır(string str, string str2){
+            Console.WriteLine(str+str2);
         }
         public int degiskenDegistir(ref int sayi1, ref int sayi2){//degiskenin referansına ulaşarak değerini değiştirme
             sayi1 +=10;
