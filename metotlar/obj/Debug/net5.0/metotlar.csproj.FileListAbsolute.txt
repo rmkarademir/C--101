@@ -1,0 +1,16 @@
+C:\C# 101\metotlar\bin\Debug\net5.0\metotlar.exe
+C:\C# 101\metotlar\bin\Debug\net5.0\metotlar.deps.json
+C:\C# 101\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.json
+C:\C# 101\metotlar\bin\Debug\net5.0\metotlar.runtimeconfig.dev.json
+C:\C# 101\metotlar\bin\Debug\net5.0\metotlar.dll
+C:\C# 101\metotlar\bin\Debug\net5.0\ref\metotlar.dll
+C:\C# 101\metotlar\bin\Debug\net5.0\metotlar.pdb
+C:\C# 101\metotlar\obj\Debug\net5.0\metotlar.csproj.AssemblyReference.cache
+C:\C# 101\metotlar\obj\Debug\net5.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# 101\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfoInputs.cache
+C:\C# 101\metotlar\obj\Debug\net5.0\metotlar.AssemblyInfo.cs
+C:\C# 101\metotlar\obj\Debug\net5.0\metotlar.csproj.CoreCompileInputs.cache
+C:\C# 101\metotlar\obj\Debug\net5.0\metotlar.dll
+C:\C# 101\metotlar\obj\Debug\net5.0\ref\metotlar.dll
+C:\C# 101\metotlar\obj\Debug\net5.0\metotlar.pdb
+C:\C# 101\metotlar\obj\Debug\net5.0\metotlar.genruntimeconfig.cache
